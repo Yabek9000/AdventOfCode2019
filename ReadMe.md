@@ -3,13 +3,13 @@
 </h1>
 <h2> What is Advent Of Code?</h2>
 <p></p>Advent of code is a series of coding problems, based on Christmas. These problems are created by Eric Wastl, you can find the website <a href= "https://adventofcode.com/">here</a>. <br>
-I will not be sharing my puzzle inputs or text, if you would like to find the puzzle text please go <a href= "https://adventofcode.com/2019">here</a> for the 2019 version, which is the one I am doing. <br>
+I will not be sharing my puzzle inputs or text, due to the website stating 'please don't include parts of Advent of Code like the puzzle text or your inputs', if you would like to find the puzzle text your self please go <a href= "https://adventofcode.com/2019">here</a> for the 2019 version, which is the one I am doing. <br>
 </p>
 
 <h2> Why am I doing this?</h2>
-<p> During this I will be documenting my trial on the 2019 challenges. I am going to do these challenges in python, to help improve my problem solving, logical thinking and coding skills. <br>
+<p> During this, I will be documenting my journey on the 2019 challenges. I am going tackle these challenges in python, to help improve my problem solving, logical thinking and coding skills. <br>
 I am going to try these challenges by my self, without any external help, however if you find a more effective solution I urge you to create a pull request, with detail to help me improve! <br>
-During this I won't be commenting any of my code, as frankly I am lazy.
+During this I won't be commenting any of my code, as frankly, I am lazy.
 </p>
 
 <hr/>

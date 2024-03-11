@@ -45,6 +45,6 @@ for noun in range(100):
         
         output = Computer(noun, verb)
 
-        # Check if the output matches the target
+       
         if output == str(target_output):
             print(100 * noun + verb)
